@@ -2,6 +2,15 @@
 <p align="center">Desenvolvedor Fullstack | JavaScript | React | Node.js | PostgreSQL</p>
 
 
+<a href="https://github.com/eliterafa24?tab=follow">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/eliterafa24?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/eliterafa24?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/eliterafa24t?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
+---
+
+
 
 ### 🤖 Linguagens e Tecnologias
 
