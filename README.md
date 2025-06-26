@@ -1,61 +1,53 @@
-Hi, Sou Rafael Ferreira
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=180&section=header&text=Olá,%20sou%20Roselia!&fontColor=ffffff&fontSize=30&animation=fadeIn" alt="banner" />
-</p>
-
-<!-- Apresentação -->
-<h2 align="center">👩‍💻 Desenvolvedor Júnior | Front-end | Back-end | JavaScript </h2>
-
-<p align="center">
-  Apaixonada por tecnologia, sempre em busca de novos aprendizados. Estudando <strong>JavaScript</strong>, <strong>Python</strong> e desenvolvendo projetos com <strong>HTML/CSS</strong>. 
-</p>
+<h1 align="center">👨‍💻 Rafael Ferreira da Silva</h1>
+<p align="center">Desenvolvedor Fullstack | JavaScript | React | Node.js | PostgreSQL</p>
 
 ---
 
-### 🚀 Minhas Skills
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-</div>
-
----
-
-### 🌎 Onde me encontrar
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/seu-link" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seu-email@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 📈 GitHub Stats
+### 🧰 Tech Stack
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=dracula"/>
-   [Portfólio Web](https://github.com/eliterafa24/portfolio) | Página com projetos e contato | HTML, Tailwind |
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 </div>
 
 ---
 
-### ✨ Projetos em Destaque
+### 🚀 Projetos em Destaque
 
-- 💼 [Coffee Website](https://github.com/SEU-USUARIO/coffee-website) – Site moderno para cafeteria com HTML/CSS
-- 🌐 [Portfólio Dev](https://github.com/SEU-USUARIO/portfolio) – Meu portfólio pessoal com projetos front-end
+| Projeto | Descrição | Tecnologias |
+|--------|------------|-------------|
+| [🔗 CRUD de Clientes](https://github.com/eliterafa24/crud-clientes) | Cadastro com validação, navegação e estilo simples | HTML, CSS, JavaScript |
+| [🔗 Portfólio Web](https://github.com/eliterafa24/portfolio) | Página responsiva com seções de projetos e contato | HTML, Tailwind CSS |
 
 ---
 
-<p align="center">
-  ✨ Obrigado por visitar meu perfil! Vamos conectar?
-</p>
+### 📈 Em Evolução
 
+- 🧪 Testes automatizados com **Jest** e **Cypress**  
+- 🔄 Integração contínua com **GitHub Actions**  
+- 🧱 Backend conectado com **Supabase**  
+- 🚀 Deploy otimizado com **Vercel** e DNS pelo **Cloudflare**
+
+---
+
+### 📬 Contato
+
+<div align="left">
+
+- 📧 E-mail: [eliterafa9@gmail.com](mailto:eliterafa9@gmail.com)  
+- 🧑‍💻 GitHub: [@eliterafa24](https://github.com/eliterafa24)  
+- 🌐 Portfólio: [Ver site](https://seu-site.vercel.app)
+
+</div>
+
+---
+
+<!--
+Você também pode adicionar um contador ou gráfico de contribuições se quiser:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=eliterafa24&theme=default)](https://git.io/streak-stats)
+-->
