@@ -111,24 +111,6 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliterafa24&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliterafa24&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliterafa24&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliterafa24&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
   
 </p>
 
